@@ -1,7 +1,5 @@
 import numpy as np
 import pandas as pd
-from sklearn.preprocessing import OneHotEncoder 
-from sklearn.feature_extraction import DictVectorizer
 
 def sexEncoding(str):
 	if(str == "male"):
