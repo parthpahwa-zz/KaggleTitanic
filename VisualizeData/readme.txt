@@ -5,8 +5,8 @@ Training data set conclusions:
 	4) Out of 891 tickets 681 are unique
 	5) Only 204 cabins have entries hence this feature can be discared
 ***********************************************************************
-				Survived
-Sex		Pclass          
+			
+Sex		Pclass  Survived        
 female 	1       0.968085
        	2       0.921053
        	3       0.500000
